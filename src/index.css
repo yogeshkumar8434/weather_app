@@ -1,4 +1,5 @@
 body {
+  background-color: #EDEBFE;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,13 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.header{
+  padding: 1px;
+  background-color: blue;
+
+}
+.header div h2{
+  padding-left: 12px;
+  color: white;
 }
