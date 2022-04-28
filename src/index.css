@@ -20,4 +20,27 @@ code {
 .header div h2{
   padding-left: 12px;
   color: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input {
+  border-radius: 5px;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 450px;
+  padding: 7px;
+  border: 0px;
+}
+.search{
+  padding: 20px;
+  text-align: center;
+}
+
+button{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  font-size: large;
+  padding: 7px;
+  border: 0px;
+  color: white;
+  background-color: blue;
 }
